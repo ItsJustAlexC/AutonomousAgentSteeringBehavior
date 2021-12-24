@@ -8,8 +8,7 @@ import javafx.scene.Scene;
 import javafx.scene.paint.Color;
 
 import javafx.stage.Stage;
-import processing.core.PApplet;
-import processing.core.PVector;
+
 
 public class Run extends Application{
     static float width = 600;
